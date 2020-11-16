@@ -89,6 +89,7 @@ venv/
 ENV/
 
 sandbox/
+TimeSeriesAnalysisWithPython/
 
 # idea
 .idea
