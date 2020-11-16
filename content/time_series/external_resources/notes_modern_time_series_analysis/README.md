@@ -1,10 +1,8 @@
-# Joe's Notes
-
-## Tutorial: Modern Time Series Analysis
-## Conference: SciPy 2019
-## Author/Instructor: Aileen Nielsen
-## Video: [youtube]('https://www.youtube.com/watch?v=v5ijNXvlC5A')
-## Repo: [github] ('https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis')
+### Tutorial: Modern Time Series Analysis
+### Conference: SciPy 2019
+### Author/Instructor: Aileen Nielsen
+### Video: [youtube](https://www.youtube.com/watch?v=v5ijNXvlC5A)
+### Repo: [github](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis)
 
 ### Things to Note
 1. All content, data, and notebooks came from the tutorial and credit goes to Alieen Nielsen
