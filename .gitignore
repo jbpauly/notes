@@ -88,6 +88,8 @@ celerybeat-schedule
 venv/
 ENV/
 
+sandbox/
+
 # idea
 .idea
 idea/
