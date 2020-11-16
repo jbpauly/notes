@@ -5,7 +5,7 @@
 ### Repo: [github](https://github.com/theJollySin/scipy_con_2019/tree/master/modern_time_series_analysis)
 
 ### Things to Note
-1. All content, data, and notebooks came from the tutorial and credit goes to Alieen Nielsen
+1. All content, data, and notebooks came from the tutorial and credit goes to Aileen Nielsen
 2. I strongly recommend you want this video if you are looking for a refresher on or are new to time series analysis, but also suggest you look at other material.
     a. What it covers
         - ARIMA (VERY brief)
