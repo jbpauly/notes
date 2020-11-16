@@ -1,7 +1,7 @@
 ### Tutorial: Time Series Analysis with Python
 ### Conference: PyCon 2017
 ### Author/Instructor: Aileen Nielsen
-### Video: [youtube](Aileen Nielsen - Time Series Analysis - PyCon 2017)
+### Video: [youtube](https://www.youtube.com/watch?v=zmfe2RaX-14)
 ### Repo: [github](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
 
 ### Things to Note
